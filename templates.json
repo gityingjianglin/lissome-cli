@@ -1,1 +1,24 @@
-{"templates":{"vue-admin":{"url":"https://github.com/gityingjianglin/vue-admin.git","branch":"main"},"vue-pc":{"url":"https://github.com/gityingjianglin/vue-pc.git","branch":"main"},"vue-mobile":{"url":"https://github.com/gityingjianglin/vue-mobile.git","branch":"main"},"react-mobile":{"url":"https://github.com/gityingjianglin/react-mobile.git","branch":"main"},"react-pc":{"url":"https://github.com/gityingjianglin/react-pc.git","branch":"main"}}}
+{
+  "templates": {
+    "vue-admin": {
+      "url": "https://github.com/gityingjianglin/vue-admin.git",
+      "branch": "main"
+    },
+    "vue-pc": {
+      "url": "https://github.com/gityingjianglin/vue-pc.git",
+      "branch": "main"
+    },
+    "vue-mobile": {
+      "url": "https://github.com/gityingjianglin/vue-mobile.git",
+      "branch": "main"
+    },
+    "react-mobile": {
+      "url": "https://github.com/gityingjianglin/react-mobile.git",
+      "branch": "main"
+    },
+    "react-pc": {
+      "url": "https://github.com/gityingjianglin/react-pc.git",
+      "branch": "main"
+    }
+  }
+}
