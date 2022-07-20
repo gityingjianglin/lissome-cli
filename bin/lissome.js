@@ -35,6 +35,22 @@ program
   .action(() => {
     require('../command/delete.js')()
   })
+
+program
+  .command('docker')
+  .description('download docker files')
+  .alias('dk')
+  .action(() => {
+    require('../command/docker.js')()
+  })
+
+program
+  .command('upgrade')
+  .description('check lissome-cli version.')
+  .alias('u')
+  .action(() => {
+    require('../command/update.js')()
+  })
 program.parse(process.argv) // 解析cli 输入命令行参数，必须
 
 // 如输入cli 命令行参数无，则提示cli 命令

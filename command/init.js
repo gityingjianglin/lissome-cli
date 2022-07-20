@@ -66,7 +66,7 @@ module.exports = () => {
       console.log(chalk.green(`${answers.projectName}/.git`));
       removeDir(`${answers.projectName}/.git`);
       console.log(chalk.green('\n √ 下载完成!'));
-      console.log(chalk.cyan(`\n cd ${answers.projectName} && npm install \n`));
+      console.log(chalk.cyan(`\n cd ${answers.projectName} && lissome-cli dk && npm install \n`));
       process.exit();
     })
   })

@@ -1,0 +1,6 @@
+{
+  "docker": {
+    "url": "https://github.com/gityingjianglin/docker.git",
+    "branch": "main"
+  }
+}
