@@ -8,6 +8,10 @@
       "url": "https://github.com/gityingjianglin/vue-pc.git",
       "branch": "main"
     },
+    "vue-pc-jssdk": {
+      "url": "https://github.com/gityingjianglin/vue-pc-jssdk.git",
+      "branch": "main"
+    },
     "vue-mobile": {
       "url": "https://github.com/gityingjianglin/vue-mobile.git",
       "branch": "main"
