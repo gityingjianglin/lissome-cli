@@ -1,6 +1,6 @@
 {
   "name": "lissome-cli",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "通用前端脚手架",
   "bin": {
     "lissome": "bin/lissome.js"
