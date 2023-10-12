@@ -4,6 +4,18 @@
       "url": "https://github.com/gityingjianglin/vue-admin.git",
       "branch": "main"
     },
+    "vue-admin-jssdk": {
+      "url": "https://github.com/gityingjianglin/vue-admin-jssdk.git",
+      "branch": "main"
+    },
+    "vue-pc": {
+      "url": "https://github.com/gityingjianglin/vue-pc.git",
+      "branch": "main"
+    },
+    "vue-pc-jssdk": {
+      "url": "https://github.com/gityingjianglin/vue-pc-jssdk.git",
+      "branch": "main"
+    },
     "vue-pc-v1": {
       "url": "https://github.com/gityingjianglin/vue-pc-v1.git",
       "branch": "main"
